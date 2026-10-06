@@ -1,0 +1,1 @@
+Este archivo fue creado como ejemplo para practicar Git y GitHub.
